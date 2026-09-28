@@ -1,0 +1,38 @@
+[
+{
+  "directory": "D:/code/C++/project_shooter/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/project_shooter-Windows.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Werror -pedantic -o CMakeFiles\\project_shooter-Windows.dir\\src\\main.cpp.obj -c D:\\code\\C++\\project_shooter\\src\\main.cpp",
+  "file": "D:/code/C++/project_shooter/src/main.cpp",
+  "output": "CMakeFiles/project_shooter-Windows.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/code/C++/project_shooter/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/project_shooter-Windows.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Werror -pedantic -o CMakeFiles\\project_shooter-Windows.dir\\src\\game.cpp.obj -c D:\\code\\C++\\project_shooter\\src\\game.cpp",
+  "file": "D:/code/C++/project_shooter/src/game.cpp",
+  "output": "CMakeFiles/project_shooter-Windows.dir/src/game.cpp.obj"
+},
+{
+  "directory": "D:/code/C++/project_shooter/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/project_shooter-Windows.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Werror -pedantic -o CMakeFiles\\project_shooter-Windows.dir\\src\\scene.cpp.obj -c D:\\code\\C++\\project_shooter\\src\\scene.cpp",
+  "file": "D:/code/C++/project_shooter/src/scene.cpp",
+  "output": "CMakeFiles/project_shooter-Windows.dir/src/scene.cpp.obj"
+},
+{
+  "directory": "D:/code/C++/project_shooter/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/project_shooter-Windows.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Werror -pedantic -o CMakeFiles\\project_shooter-Windows.dir\\src\\sceneMain.cpp.obj -c D:\\code\\C++\\project_shooter\\src\\sceneMain.cpp",
+  "file": "D:/code/C++/project_shooter/src/sceneMain.cpp",
+  "output": "CMakeFiles/project_shooter-Windows.dir/src/sceneMain.cpp.obj"
+},
+{
+  "directory": "D:/code/C++/project_shooter/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/project_shooter-Windows.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Werror -pedantic -o CMakeFiles\\project_shooter-Windows.dir\\src\\sceneTitle.cpp.obj -c D:\\code\\C++\\project_shooter\\src\\sceneTitle.cpp",
+  "file": "D:/code/C++/project_shooter/src/sceneTitle.cpp",
+  "output": "CMakeFiles/project_shooter-Windows.dir/src/sceneTitle.cpp.obj"
+},
+{
+  "directory": "D:/code/C++/project_shooter/build",
+  "command": "C:\\PROGRA~1\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/project_shooter-Windows.dir/includes_CXX.rsp -g -std=gnu++17 -Wall -Wextra -Werror -pedantic -o CMakeFiles\\project_shooter-Windows.dir\\src\\sceneEnd.cpp.obj -c D:\\code\\C++\\project_shooter\\src\\sceneEnd.cpp",
+  "file": "D:/code/C++/project_shooter/src/sceneEnd.cpp",
+  "output": "CMakeFiles/project_shooter-Windows.dir/src/sceneEnd.cpp.obj"
+}
+]

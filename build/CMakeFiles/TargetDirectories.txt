@@ -1,0 +1,3 @@
+D:/code/C++/project_shooter/build/CMakeFiles/project_shooter-Windows.dir
+D:/code/C++/project_shooter/build/CMakeFiles/edit_cache.dir
+D:/code/C++/project_shooter/build/CMakeFiles/rebuild_cache.dir
